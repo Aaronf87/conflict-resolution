@@ -1,1 +1,2 @@
 # conflict-resolution
+## new code
